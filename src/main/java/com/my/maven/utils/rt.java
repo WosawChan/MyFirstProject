@@ -5,6 +5,7 @@ class Function{
   private boolean flag=false;
   //子线程要实现的功能
   public synchronized void sub(){
+	  //test
       while(flag){
           try {
               this.wait();
