@@ -4,7 +4,7 @@ public class test {
 	public static void main(String[] args) {
 		String str ="";
 		String Str1 ="";
-		String str3 = "";
+		String str4 = "";
 	}
 
 	public static void getVal(){
