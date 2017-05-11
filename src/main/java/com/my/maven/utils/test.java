@@ -5,6 +5,7 @@ public class test {
 		String str ="";
 		String Str1 ="";
 		String str2 = "";
+		String str4 = "";
 	}
 
 	public static void getVal(){
