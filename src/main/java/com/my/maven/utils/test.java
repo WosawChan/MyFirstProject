@@ -7,5 +7,6 @@ public class test {
 
 	public static void getVal(){
 		System.out.println("");
+		String str = "";
 	}
 }
