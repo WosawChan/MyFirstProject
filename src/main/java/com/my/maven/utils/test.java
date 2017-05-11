@@ -5,5 +5,7 @@ public class test {
 		
 	}
 
-	public static void getVal(){}
+	public static void getVal(){
+		System.out.println("");
+	}
 }
